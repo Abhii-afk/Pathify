@@ -1,0 +1,5 @@
+{
+  "name": "PATHIFY",
+  "description": "A travel data collection app that automatically detects and logs trips to provide valuable insights for urban transport planning, while rewarding users for their contributions.",
+  "requestFramePermissions": []
+}
